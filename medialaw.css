@@ -1,0 +1,417 @@
+@media only screen and (min-width:200px) and (max-width:370px){
+	.header-inner{
+		flex-direction: column;
+	}
+	.menu ul li{
+		font-size: 5px;
+		padding: 15px 2px;
+		font-weight: lighter;
+	}
+	
+	.logo img{
+		width: 141px;
+		height: 47px;
+	}
+	button{
+		display: none;
+	}
+	.rank-outer{
+		width: 100%;
+		margin: 10px 0px;
+		padding: 30px 0px;
+	}
+	.rank-inner{
+		flex-direction: column;
+	}
+	.mobile{
+		display: block;
+		width: 100%;
+	}
+	.desktop{
+		display: none;
+	}
+	.growimg{
+		flex-direction: column;
+	}
+	.our-inner h3 {
+		font-size: 15px;
+	}
+	.our-inner p{
+		padding: 0px 20px;
+	}
+	.Tutoriol-outer{
+		flex-direction: column;
+	}
+	.Tutoriol-inner{
+		flex-direction: column;
+	}
+	.adv-outer{
+		flex-direction: column;
+	}
+	.adv-inner{
+		flex-direction: column;
+	}
+	.journey-inner{
+		flex-direction: column;
+	}
+	.journey{
+		flex-direction: column;
+	}
+	.contener{
+		flex-direction: column;
+	}
+	.video-outer{
+		flex-direction: column;
+	}
+	.video-inner{
+		flex-direction: column;
+	}
+	.freq-outer{
+		flex-direction: column;
+	}	
+	.freq-inner{
+		flex-direction: column;
+		
+		text-align: center;
+
+
+	}
+	.footer-inner{
+		flex-direction: column;
+	}
+	.freq-item{
+		flex-direction: column;
+		width: auto;
+		margin: 18px 15px;
+		padding: 0px 9px;
+	}
+
+
+
+
+}
+
+@media only screen and (min-width:370px) and (max-width:567px){
+	.header-inner{
+		flex-direction: column;
+	}
+	button{
+		display: none;
+	}
+	.rank-inner{
+		flex-direction: column;
+	}
+
+
+	.menu ul li{
+		font-size: 7px;
+		padding: 15px 2px;
+		font-weight: bold;
+	}
+	.logo img{
+		margin-top: 10px;
+		width: 141px;
+		height: 47px;
+	}
+	.rank-outer{
+		width: 100%;
+		margin: 10px 0px;
+		padding: 30px 0px;
+		margin: 0px 0px;
+	}
+	.rank-inner{
+		flex-direction: column;
+	}
+	.mobile{
+		display: block;
+		width: 100%;
+	}
+	.desktop{
+		display: none;
+	}
+	.our-outer{
+		flex-direction: column;
+	}
+	.growimg{
+		flex-direction: column;
+	}
+	.our-inner h3 {
+		font-size: 30px;
+	}
+	.our-inner p{
+		padding: 0px 30px;
+	}
+	.Tutoriol-outer{
+		flex-direction: column;
+	}
+	.Tutoriol-inner{
+		flex-direction: column;
+	}
+
+	.adv-outer{
+		flex-direction: column;
+	}
+	.adv-inner{
+		flex-direction: column;
+	}
+	.journey-inner{
+		flex-direction: column;
+	}
+	.journey{
+		flex-direction: column;
+	}
+	.contener{
+		flex-direction: column;
+	}
+	.video-outer{
+		flex-direction: column;
+	}
+	.video-inner{
+		flex-direction: column;
+	}
+	.freq-outer{
+		flex-direction: column;
+	}	
+	.freq-inner{
+		flex-direction: column;
+		
+		text-align: center;
+
+/*		width: 100%;*/
+}
+.freq-item{
+	flex-direction: column;
+	width: auto;
+	margin: 18px 15px;
+	padding: 0px 9px;
+}	
+.footer-inner{
+	flex-direction: column;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+.footer-c1{
+	margin: auto;
+}
+
+
+}
+
+@media only screen and (min-width:568px) and (max-width:991px){
+	.header-inner{
+		flex-direction: column;
+	}
+	button{
+		display: none;
+	}
+	.menu ul li{
+		font-size: 10px;
+		padding: 15px 4px;
+		font-weight: bold;
+		margin-right: 3px;
+		
+	}
+	.logo img{
+		margin-top: 10px;
+		width: 120px;
+		margin-left: 4px;
+
+	}
+	.rank-outer{
+		width: 100%;
+		margin: 0px 0px;
+		padding: 30px 0px;
+		flex-direction: column;
+	}
+	.rank-inner{
+		width: auto;
+		margin: auto;
+		flex-direction: column;
+	}
+	.mobile{
+		display: block;
+		width: 100%;
+	}
+	.desktop{
+		display: none;
+	}
+	.rank-right p{
+		font-family: Rubik;
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 31px;
+		text-align: center;
+		text-align: justify;
+		color: #000;
+	}
+	.growimg{
+		flex-direction: column;
+	}
+	.our-inner{
+		flex-direction: column;
+	}
+	.our-inner h3 {
+		font-size: 32px;
+	}
+	.our-inner p{
+		padding: 0px 15px;
+	}
+	.Tutoriol-outer{
+		flex-direction: column;
+	}
+	.Tutoriol-inner{
+		flex-direction: column;
+	}
+	.adv-outer{
+		flex-direction: column;
+	}
+	.adv-inner{
+		flex-direction: column;
+	}
+	.journey-inner{
+		flex-direction: column;
+	}
+	.journey{
+		flex-direction: column;
+	}
+	.contener{
+		flex-direction: column;
+	}
+	.video-outer{
+		flex-direction: column;
+	}
+	.video-inner{
+		flex-direction: column;
+	}
+	.freq-outer{
+		flex-direction: column;
+	}	
+	.freq-inner{
+		flex-direction: column;
+		
+		text-align: center;
+
+
+	}	
+	.freq-item{
+		flex-direction: column;
+		width: auto;
+		margin: 18px 15px;
+		padding: 0px 9px;
+	}
+	.footer-inner{
+		flex-direction: column;
+		text-align: center;
+		display: flex;
+		justify-content: center;
+	}
+
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (min-width:992px) and (max-width:1048px){
+	.header-inner{
+/*		flex-direction: column;*/
+}
+.menu ul li{
+	font-size: 18px;
+	padding: 15px 10px;
+	font-weight: bold;
+	margin-right: 6px;
+}
+
+.logo img{
+	margin-top: 10px;
+	width: 170px;
+	margin-left: 6px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.rank-inner{
+	flex-direction: column;
+}
+.rank-right p{
+	font-family: Rubik;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 31px;
+	text-align: center;
+	text-align: justify;
+	color: #000;
+}
+.mobile{
+	display:block;
+	width: 100%;
+}
+.desktop{
+	display: none;
+}
+.growimg{
+	flex-direction: column;
+}
+.our-inner h3 {
+	font-size: 30px;
+}
+.our-inner p{
+	padding: 0px 30px;
+}
+.Tutoriol-outer{
+	flex-direction: column;
+}
+.Tutoriol-inner{
+	flex-direction: column;
+}
+.adv-outer{
+	flex-direction: column;
+}
+.adv-inner{
+	flex-direction: column;
+}
+.journey-inner{
+	flex-direction: column;
+}
+.journey{
+	flex-direction: column;
+}
+.contener{
+	flex-direction: column;
+}
+.video-outer{
+	flex-direction: column;
+}
+.video-inner{
+	flex-direction: column;
+}	
+
+.freq-outer{
+	flex-direction: column;
+}	
+.freq-inner{
+	flex-direction: column;
+	
+	text-align: center;
+
+}
+.freq-item{
+	flex-direction: column;
+	width: auto;
+	margin: 18px 15px;
+	padding: 0px 9px;
+}
+.footer-inner{
+	flex-direction: column;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+
+}
